@@ -1,9 +1,12 @@
 # Notitia
 
-Application de prise de notes pour infirmiers.
+Notitia est une application de gestion des prises de notes médicales, conçue pour les professionnels de santé.
 
-## Fonctionnalités
+## Installation
 
-- Prendre des notes.
-- Gérer les notes avec des catégories.
-- Ajouter des gabarits.
+Clonez le projet et installez les dépendances :
+
+```bash
+git clone https://github.com:Felgu/NotaBeta.git
+cd NotaBeta
+npm install
